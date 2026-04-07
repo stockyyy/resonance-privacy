@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – Resonance Guitar Tuner</title>
+    <style>
+      body { font-family: sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.6; }
+      h1 { font-size: 1.6rem; }
+      h2 { font-size: 1.1rem; margin-top: 2rem; }
+    </style>
+  </head>
+  <body>
+    <h1>Privacy Policy – Resonance Guitar Tuner</h1>
+    <p><em>Last updated: April 7, 2026</em></p>
+
+    <p>Resonance Guitar Tuner ("the App") is a free tool to help you tune your guitar. This policy explains how the App handles your data.</p>
+
+    <h2>Microphone Access</h2>
+    <p>The App requires access to your device's microphone to detect the pitch of your instrument. Audio is processed <strong>locally on your
+  device in real time</strong> and is never recorded, stored, or transmitted anywhere.</p>
+
+    <h2>Data Collection</h2>
+    <p>The App does <strong>not</strong> collect, store, or share any personal data. No analytics, no tracking, no third-party SDKs.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>The App does not use any third-party services.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>The App does not knowingly collect any information from children under 13.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>If this policy changes, the updated version will be posted on this page.</p>
+
+    <h2>Contact</h2>
+    <p>Questions? Reach out at: <a href="mailto:YOUR@EMAIL.COM">YOUR@EMAIL.COM</a></p>
+  </body>
+  </html>
